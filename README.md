@@ -13,3 +13,5 @@ project was to turn any purifier into a smart purifier using the Rf switch, tran
 receiver. The real-data monitoring happens in the system with the help of AdaFruit. All
 of the components of the circuit are controlled with the help of Python libraries and
 code.
+
+#please find everything in detail in the project report
